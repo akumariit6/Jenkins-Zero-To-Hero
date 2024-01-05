@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.abhishek</groupId>
+    <groupId>com.akumar</groupId>
     <artifactId>spring-boot-demo</artifactId>
     <version>1.0</version>
 
@@ -22,6 +22,11 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <java.version>11</java.version>
+	<sonar.host.url>https://sonarcloud.io/</sonar.host.url>
+	<sonar.login>561ef5e9370e70f19320114bae84a861361894ed</sonar.login>
+	<sonar.organization>ultimatedemo</sonar.organization>
+	<sonar.projectKey>ultimatedemo_ultimatedemo</sonar.projectKey>
+	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
     <dependencies>
