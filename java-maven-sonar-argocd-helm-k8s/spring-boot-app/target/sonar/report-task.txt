@@ -1,0 +1,7 @@
+organization=ultimatedemo
+projectKey=ultimatedemo_ultimatedemo
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.51948
+dashboardUrl=https://sonarcloud.io/dashboard?id=ultimatedemo_ultimatedemo
+ceTaskId=AYzf39JfgF_Pj4xUlRL_
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYzf39JfgF_Pj4xUlRL_
